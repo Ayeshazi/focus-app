@@ -34,4 +34,3 @@ Our long-term vision for FOCUS App is to become the go-to productivity app for i
 
 ```
 
-Please note that you may need to make further
